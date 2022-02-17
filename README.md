@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @bcamino
-- 👀 I’m interested in applying computational tools to solve real world problems
-- 🌱 I’m currently learning deep learning and NLP
-- 💞️ I’m looking to collaborate on any project that would make me expand my knowledge in machine learning
-- 📫 How to reach me: camino.bruno@gmail.com
+## Long story short
+
+According to my qualifications, I am a computational chemist. According to my job titles, I am a software developer and cyber security analyst. To be true to my passions, I am training myself up in the field of data ethics as I care deeply about the rights of users of technology and I am hoping to combine all of these elements in to the next stage of my career.
+
+## What keeps me busy
+I am working as a Research Software Developer in the <a href="https://github.com/cmsg-icl">Computational Materials Science group</a> at Imperial College London. In particular, I am developing a set of <a href="https://github.com/crystal-code-tools/crystal_functions">functions</a> and <a href="https://github.com/crystal-code-tools/crystal-integrated-notebooks">worfkflows</a> to simplify the use of the CRYSTAL code.
+
+## Talk to me
+I am always open to start new collaborations. Please talk to me in 🇬🇧 🇮🇹 🇪🇸 🇫🇷.
+
 
 <!---
 bcamino/bcamino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
